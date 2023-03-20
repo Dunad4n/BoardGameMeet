@@ -1,4 +1,4 @@
-BoardGameMeet(ТП-3-2)
+<h1>BoardGameMeet(ТП-3-2)</h1>
 
 Студенты:
 
