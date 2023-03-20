@@ -17,3 +17,5 @@
 [Miro](https://miro.com/app/board/uXjVPhpHMpY=/)
 
 [TaskMeister](https://www.meistertask.com/app/project/b1BPRMFU/boardgamemeet)
+
+[Диаграммы](https://github.com/Dunad4n/BoardGameMeet/tree/main/documentation)
