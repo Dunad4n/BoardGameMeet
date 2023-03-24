@@ -18,6 +18,6 @@
 
 [Miro](https://miro.com/app/board/uXjVPhpHMpY=/)
 
-[TaskMeister](https://www.meistertask.com/app/project/b1BPRMFU/boardgamemeet)
+TaskMeister ([Web-Site](https://www.meistertask.com/app/project/b1BPRMFU/boardgamemeet)) ([CSV](https://github.com/Dunad4n/BoardGameMeet/tree/main/documentation/TaskMeisterCSV))
 
 [Диаграммы](https://github.com/Dunad4n/BoardGameMeet/tree/main/documentation)
