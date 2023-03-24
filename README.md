@@ -12,9 +12,9 @@
 
 ---
 
-[Техническое задание](https://docs.google.com/document/d/1cZ8HZteSlBpmueZHEps2yw5AHRJ33cNM8qnJMxq3aW8/edit#)
+[Техническое задание] ([Google Doc](https://docs.google.com/document/d/1cZ8HZteSlBpmueZHEps2yw5AHRJ33cNM8qnJMxq3aW8/edit#)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ.pdf))
 
-Курсовая работа ([Google Doc](https://docs.google.com/document/d/1p0LHbxtNiDSTU4-gn-igRe9IUlyBtmqdmweDOxgZzRY/edit#heading=h.zihw2bzggje0)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ.pdf))
+Курсовая работа ([Google Doc](https://docs.google.com/document/d/1p0LHbxtNiDSTU4-gn-igRe9IUlyBtmqdmweDOxgZzRY/edit#heading=h.zihw2bzggje0)) 
 
 [Miro](https://miro.com/app/board/uXjVPhpHMpY=/)
 
