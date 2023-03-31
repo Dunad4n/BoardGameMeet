@@ -12,9 +12,9 @@
 
 ---
 
-Техническое задание ([Google Doc](https://docs.google.com/document/d/1cZ8HZteSlBpmueZHEps2yw5AHRJ33cNM8qnJMxq3aW8/edit#)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ%20v.2.pdf))
+Техническое задание ([Google Doc](https://docs.google.com/document/d/1cZ8HZteSlBpmueZHEps2yw5AHRJ33cNM8qnJMxq3aW8/edit#)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ_2.1.pdf))
 
-Курсовая работа ([Google Doc](https://docs.google.com/document/d/1p0LHbxtNiDSTU4-gn-igRe9IUlyBtmqdmweDOxgZzRY/edit#heading=h.zihw2bzggje0)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ_2.1.pdf))
+Курсовая работа ([Google Doc](https://docs.google.com/document/d/1p0LHbxtNiDSTU4-gn-igRe9IUlyBtmqdmweDOxgZzRY/edit#heading=h.zihw2bzggje0)) ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.pdf))
 
 Презентация ([pptx](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20BoardGameMeet.pptx))
 
