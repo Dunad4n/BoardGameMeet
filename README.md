@@ -1,5 +1,8 @@
 <h1>BoardGameMeet(ТП-3-2)</h1>
 
+[Server](https://github.com/Dunad4n/BoardGameMeet_Server)
+[Client](https://github.com/RedJohn12345/BoardGameMeet_Client)
+
 Студенты:
 
 [Корчагин Денис](https://github.com/RedJohn12345)
