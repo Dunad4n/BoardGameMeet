@@ -24,6 +24,8 @@
 
 [Miro](https://miro.com/app/board/uXjVPhpHMpY=/)
 
+[Swagger](https://board-game-meet-dunad4n.cloud.okteto.net/swagger-ui/index.html#/)
+
 [Figma](https://www.figma.com/file/97s6q1AduQuaEPb27RfcY5/BoardGameMeet?node-id=0%3A1&t=8QmV7nXATlyaIUqn-1)
 
 TaskMeister ([Web-Site](https://www.meistertask.com/app/project/b1BPRMFU/boardgamemeet)) ([CSV(1 аттестация)](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TaskMeisterCSV/project-export-498009.csv)) ([CSV(2 аттестация](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TaskMeisterCSV/project-export-506290.csv))
