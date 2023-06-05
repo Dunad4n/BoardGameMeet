@@ -29,3 +29,4 @@
 TaskMeister ([Web-Site](https://www.meistertask.com/app/project/b1BPRMFU/boardgamemeet)) ([CSV(1 аттестация)](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TaskMeisterCSV/project-export-498009.csv)) ([CSV(2 аттестация](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TaskMeisterCSV/project-export-506290.csv))
 
 [Диаграммы](https://github.com/Dunad4n/BoardGameMeet/tree/main/documentation)
+[Сопроводительное письмо](https://docs.google.com/document/d/1jvLd4xicEPhn2Yoi2eXFDF-VCHCuI8_6QZHTcXbY-dM/edit)
