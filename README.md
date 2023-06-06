@@ -18,7 +18,7 @@
 
 Техническое задание ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/TZ_2.1.pdf))
 
-Курсовая работа ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/Курсовая%20работа.pdf))
+Курсовая работа ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A2%D0%9F.pdf))
 
 [APK](https://disk.yandex.ru/d/cERD-sKxB-m0KA)
 
