@@ -20,7 +20,7 @@
 
 Курсовая работа ([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A2%D0%9F.pdf))
 
-[APK](https://disk.yandex.ru/d/cERD-sKxB-m0KA)
+[APK](https://disk.yandex.ru/d/vfwYsPs__QBJww)
 
 Презентация ([pptx](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20BoardGameMeet.pptx))
 
