@@ -26,7 +26,7 @@
 2) Курсовая работа([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/kursovaya_tp.pdf), [docx](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/kursovaya_tp.docx))
 3) Презентация([pptx](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20BoardGameMeet.pptx))
 4) [Диаграммы](https://github.com/Dunad4n/BoardGameMeet/tree/main/documentation)
-5) [Сопроводительное письмо](https://docs.google.com/document/d/1jvLd4xicEPhn2Yoi2eXFDF-VCHCuI8_6QZHTcXbY-dM/edit)
+5) Сопроводительное письмо([PDF](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/Сопроводительное%20письмо.pdf), [docx](https://github.com/Dunad4n/BoardGameMeet/blob/main/documentation/Сопроводительное%20письмо.docx))
 6) [Видео с разверткой сервера, обзором backend и frontend части и работой приложения](https://drive.google.com/drive/folders/1vdJCvaP0j2av_4yCgvm9O_hIPjVRkSq5)
 7) [Аналитика](https://github.com/Dunad4n/BoardGameMeet/tree/main/analytics)
 8) [APK](https://drive.google.com/drive/folders/1GzfqeR9o2feW92q2BOotRhK3st-rQzNR)
